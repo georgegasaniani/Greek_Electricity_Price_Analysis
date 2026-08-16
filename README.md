@@ -9,13 +9,13 @@ Built with Python , SQL, and Power Bi
 
 DATA USED:
 
-From ENTSO-E:
-     *Day-Ahead Prices (Hourly/15 min)
+From ENTSO-E: Day-Ahead Prices (Hourly/15 min)
+              Actual Load(Hourly)
+              Generation by type(solar, wind, gas, lignite, hydro) (Hourly)
+              Cross Border Flows (BG , MK , IT) (Hourly)
 
-     *Actual Load(Hourly)
-     *Generation by type(solar, wind, gas, lignite, hydro) (Hourly)
-     *Cross Border Flows (BG , MK , IT) (Hourly)
-
+    
+     
 From Yahoo Finance (yfinance):
             *TTF natural gas futures (Daily)
 
