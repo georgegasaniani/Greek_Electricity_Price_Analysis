@@ -182,13 +182,20 @@ feature importance, and model metrics.
 
 Some More Graphs that were Done with python that add detail 
 
-<img width="1500" height="750" alt="price_distribution" src="https://github.com/user-attachments/assets/f750fa7f-1cdb-43b1-b3df-a9f9a5d8db5a" />
+<img width="1500" height="900" alt="solar_vs_price" src="https://github.com/user-attachments/assets/33b07691-a38c-46e6-a668-53e13b13eba5" />
+<img width="1385" height="884" alt="price_vs_residual_load" src="https://github.com/user-attachments/assets/3034447b-3095-4e25-8dca-3830e59fc338" />
+
 
 <img width="1500" height="750" alt="price_distribution" src="https://github.com/user-attachments/assets/a5218a08-2b2c-4424-a800-f50e70ca9b5c" />
 
 <img width="2100" height="750" alt="duck_curve_by_year" src="https://github.com/user-attachments/assets/15c1efac-0ae7-4338-8e92-7c401af7d71d" />
 
-IN THE LAST GRAPH THE DUCK CURVE IS MUCH MORE VISIBLE, SOLAR GROWS YEAR BY YEAR AND CONSEQUENTLY THE MIDDAY PRICES DECREASE MORE AND MORE AS YEARS GO BY
+***IN THE LAST GRAPH THE DUCK CURVE IS MUCH MORE VISIBLE, SOLAR GROWS YEAR BY YEAR AND CONSEQUENTLY THE MIDDAY PRICES DECREASE MORE AND MORE AS YEARS GO BY****
+
+
+
+
+
 
 
 
