@@ -180,6 +180,19 @@ feature importance, and model metrics.
 
 
 
+Some More Graphs that were Done with python that add detail 
+
+<img width="1500" height="750" alt="price_distribution" src="https://github.com/user-attachments/assets/f750fa7f-1cdb-43b1-b3df-a9f9a5d8db5a" />
+
+<img width="1500" height="750" alt="price_distribution" src="https://github.com/user-attachments/assets/a5218a08-2b2c-4424-a800-f50e70ca9b5c" />
+
+<img width="2100" height="750" alt="duck_curve_by_year" src="https://github.com/user-attachments/assets/15c1efac-0ae7-4338-8e92-7c401af7d71d" />
+
+IN THE LAST GRAPH THE DUCK CURVE IS MUCH MORE VISIBLE, SOLAR GROWS YEAR BY YEAR AND CONSEQUENTLY THE MIDDAY PRICES DECREASE MORE AND MORE AS YEARS GO BY
+
+
+
+
 DATA QUALITY ISSUES FOUND AND SOLVED
 
  1.Phantom 74% missing generation data** — actually an artifact: Greek prices switched from hourly to **15-minute settlement during 2025 (56,950 price rows vs ~35,000 hours). Sub-hourly price rows found no hourly generation match in the join, appearing as NaN. Fixed by resampling prices to hourly means. Real generation gaps: <10 rows.
