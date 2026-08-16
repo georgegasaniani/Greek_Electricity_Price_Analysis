@@ -180,7 +180,18 @@ feature importance, and model metrics.
 
 
 
-Some More Graphs that were Done with python that add detail 
+
+
+
+
+
+
+
+***Some More Graphs that were Done with python that add detail***
+
+
+
+
 
 <img width="1500" height="900" alt="solar_vs_price" src="https://github.com/user-attachments/assets/33b07691-a38c-46e6-a668-53e13b13eba5" />
 <img width="1385" height="884" alt="price_vs_residual_load" src="https://github.com/user-attachments/assets/3034447b-3095-4e25-8dca-3830e59fc338" />
