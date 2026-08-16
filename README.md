@@ -213,12 +213,4 @@ Python (pandas, scikit-learn, LightGBM, matplotlib) · SQL (SQLite) · Power BI 
 
 
 
-<img width="2010" height="1122" alt="Forecasting" src="https://github.com/user-attachments/assets/38c0cb83-043a-47a9-acce-325c987c6af0" />
-<img width="2006" height="1132" alt="Solar and Wind" src="https://github.com/user-attachments/assets/106175ea-cdb7-4c62-bca4-b547fc319a52" />
-<img width="2021" height="1121" alt="Gas" src="https://github.com/user-attachments/assets/a892d69b-c111-4dd5-b504-64544e3fea1f" />
-<img width="2011" height="1128" alt="Residual Load" src="https://github.com/user-attachments/assets/535e9672-126d-4755-95b9-3941b505e544" />
 
-
-   
-
-<img width="2027" height="1158" alt="Heatmap Showing The Duck Curve" src="https://github.com/user-attachments/assets/8e23aaef-128d-4f9d-86a8-79ff71b60744" />
